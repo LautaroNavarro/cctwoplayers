@@ -1,6 +1,6 @@
-from game import (  # noqa
+from cctwoplayers.game import (  # noqa
     Game,
     InvalidGameStatus,
 )
 
-from player import Player  # noqa
+from cctwoplayers.player import Player  # noqa

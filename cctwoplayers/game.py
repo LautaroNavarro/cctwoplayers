@@ -1,5 +1,5 @@
 from enum import Enum
-from player import Player
+from cctwoplayers.player import Player
 
 
 class InvalidGameStatus(Exception):
